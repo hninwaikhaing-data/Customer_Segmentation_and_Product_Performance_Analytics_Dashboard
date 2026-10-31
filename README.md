@@ -209,7 +209,7 @@ update the paths below if necessary.
 
 ![Customer Segmentation & Performance Analytics](image/Snapshot Customer Segmentation Analysis Dashboard.png)
 
-![Product Performance, Profitability & Trend Analysis](image/product_performance_analysis.png)
+![Product Performance, Profitability & Trend Analysis](image/Snapshot Product Performance & Trend Analysis Dashboard.png)
 
 
 ## Author

@@ -207,12 +207,12 @@ Add your exported dashboard screenshots to the `images/` folder and
 update the paths below if necessary.
 
 ```
-![Customer Segmentation & Performance Analytics].(image/Snapshot Customer Segmentation Analysis Dashboard.png)
+![Customer Segmentation & Performance Analytics].(image/Customer_Segmentation_Analysis.png)
 
 ![Product Performance, Profitability & Trend Analysis].(image/Snapshot Product Performance & Trend Analysis Dashboard.png)
 ```
-![Customer Segmentation & Performance Analytics](image/Snapshot_Customer_Segmentation_Analysis_Dashboard.png)
-
+![Customer Segmentation & Performance Analytics](image/Customer_Segmentation_Analysis.png)
+![Product Performance, Profitability & Trend Analysiss](image/Productr_Performance_Analysis.png)
 
 ## Author
 

@@ -211,6 +211,8 @@ update the paths below if necessary.
 
 ![Product Performance, Profitability & Trend Analysis].(image/Snapshot Product Performance & Trend Analysis Dashboard.png)
 ```
+![Customer Segmentation & Performance Analytics](image/Snapshot_Customer_Segmentation_Analysis_Dashboard.png)
+
 
 ## Author
 

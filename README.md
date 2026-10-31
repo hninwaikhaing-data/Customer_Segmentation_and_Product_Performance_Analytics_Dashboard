@@ -206,11 +206,11 @@ optimization, performance monitoring, and regional growth planning.
 Add your exported dashboard screenshots to the `images/` folder and
 update the paths below if necessary.
 
-``` markdown
+
 ![Customer Segmentation & Performance Analytics](image/customer_segmentation_analysis.png)
 
 ![Product Performance, Profitability & Trend Analysis](image/product_performance_analysis.png)
-```
+
 
 ## Author
 
